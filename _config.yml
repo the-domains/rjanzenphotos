@@ -1,0 +1,28 @@
+name: rjanzenphotos
+favicon: null
+layout_spectrum: 0.8624242034275085
+typography_spectrum: 0.04634541133418679
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.028516338672488928
+  lightness: 0.8558876218739897
+  saturation: 0.5166536683682352
+  rhythmicContrast: 0.9354609998408705
+purpose: []
